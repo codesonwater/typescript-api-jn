@@ -7,5 +7,5 @@ price?: number;
 isElectric?: boolean;
 used?: boolean;
 vin?: string;
-id: string;
+id?: string;
 }

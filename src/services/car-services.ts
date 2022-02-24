@@ -41,4 +41,4 @@ const addNewCar = async (car: Car): Promise<Car> => {
 
 
 
-export const carService = { getAllCars } as CarService;
+export const carService = { getAllCars, addNewCar } as CarService;
